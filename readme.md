@@ -1,4 +1,4 @@
-# JS Doc Basic Example
+# Nodejs Blockchain Basic Example
 
 > Simple App Blockchain example using NodeJS
 
