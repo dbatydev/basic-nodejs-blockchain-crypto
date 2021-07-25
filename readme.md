@@ -1,6 +1,6 @@
 # Nodejs Blockchain Basic Example
 
-> Simple App Blockchain example using NodeJS
+> Simple Blockchain App using NodeJS
 
 ## Get Started
 
